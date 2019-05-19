@@ -4,7 +4,7 @@ export default class Form extends Component {
   render() {
     return (
       <div>
-        <h1>Add Lead Form</h1>
+        <h1 className="p-4">Add Lead Form</h1>
       </div>
     )
   }
